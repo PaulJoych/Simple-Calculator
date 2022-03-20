@@ -38,6 +38,7 @@ int main() {
   opChecker = false;
 
   // op getter
+  cout << "==KALKULATOR SEDERHANA==\n";
   cout << "Masukkan operator : +, -, *, /:  \n";
   cin >> op;
 
