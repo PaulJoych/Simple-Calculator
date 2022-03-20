@@ -84,7 +84,7 @@ int main() {
 
   while(cin.fail()) {
     cout << "--------------------------------  \n";
-    cout << "Error! nilai kedua harus kedua \nMasukkan angka kedua:" << endl;
+    cout << "Error! nilai kedua harus angka \nMasukkan angka kedua:" << endl;
     cin.clear();
     cin.ignore(256,'\n');
     cin >> num2;
